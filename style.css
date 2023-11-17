@@ -1,0 +1,36 @@
+.container-navbar{
+    background-color: blueviolet;
+    height: 50vh;
+    display: flex;
+    align-content:flex-start ;
+}
+
+.container-login {
+    background-color: #f7941f;
+    margin:10px;
+    width: 100px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-menu {
+    background-color: #f7941f;
+    margin:10px;
+    width: 150px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-logout {
+    background-color: #f7941f;
+    margin:10px;
+    width: 100px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
